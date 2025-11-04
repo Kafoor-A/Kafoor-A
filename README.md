@@ -41,5 +41,5 @@ It captures each person’s workout in real-time and provides performance data t
 
 ---
 
-_✨ Always exploring how technology can improve fitness, energy, and sustainability._
+_✨ Always exploring how technology can improve automation and sustainability._
 
