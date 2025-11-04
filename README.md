@@ -24,9 +24,9 @@ It captures each person’s workout in real-time and provides performance data t
 - Real-time workout tracking dashboard  
 - Statistical data on performance improvement  
 - Alerts for improper form or inactivity
-- 
+  
 ## 💡 Skills
-**Languages:** Java, Python, C++  
+**Languages:** Java, Python  
 **Frameworks / Tools:** OpenCV, YOLO, Git, Arduino, ESP32, MATLAB  
 **Domains:** Machine Learning, Embedded Systems, IoT  
 
