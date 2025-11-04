@@ -23,11 +23,7 @@ It captures each person’s workout in real-time and provides performance data t
 ### 📊 Output
 - Real-time workout tracking dashboard  
 - Statistical data on performance improvement  
-- Alerts for improper form or inactivity  
-
-## 🛠️ Other Projects
-- **Gym Energy Harvester** — converts workout kinetic energy into electricity using ESP32 and DC motor.  
-- **Vegan Makhana Mayo** — a sustainable food science project presented at a national conference.
+- Alerts for improper form or inactivity
 - 
 ## 💡 Skills
 **Languages:** Java, Python, C++  
