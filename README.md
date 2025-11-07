@@ -38,6 +38,8 @@ It captures each person’s workout in real-time and provides performance data t
 - **Email:** abdulkafoorsiddiq@gmail.com
 - **LinkedIn:**  [linkedin.com/in/abdulkafoorsiddiq](https://linkedin.com/in/abdulkafoorsiddiq)  
 - **GitHub:** [github.com/Kafoor-A](https://github.com/Kafoor-A)
+- **HackerRank:** [hackerrank.com/abdulkafoorsidd1](https://hackerrank.com/abdulkafoorsidd1)
+
 
 ---
 
