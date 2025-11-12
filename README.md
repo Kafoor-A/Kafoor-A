@@ -39,6 +39,7 @@ It captures each person’s workout in real-time and provides performance data t
 - **LinkedIn:**  [linkedin.com/in/abdulkafoorsiddiq](https://linkedin.com/in/abdulkafoorsiddiq)  
 - **GitHub:** [github.com/Kafoor-A](https://github.com/Kafoor-A)
 - **HackerRank:** [hackerrank.com/abdulkafoorsidd1](https://hackerrank.com/abdulkafoorsidd1)
+- **LeetCode:** [leetcode.com/Kafoor](https://leetcode.com/Kafoor)
 
 
 ---
