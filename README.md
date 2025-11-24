@@ -1,4 +1,4 @@
-# Hi, I'm Abdul 👋
+# Hi, I'm Abdul Kafoor 👋
 
 🎓 **B.Tech in Electronics and Communication Engineering (ECE)**  
 💻 Aspiring **Software Developer** | Interested in **Python, Java, Machine Learning, and Embedded Systems**
